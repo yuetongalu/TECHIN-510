@@ -1,3 +1,9 @@
 
 streamlit
-
+pydantic==1.10.14
+pytz
+sqlite
+sqlite3
+db
+requests
+beautifulsoup4

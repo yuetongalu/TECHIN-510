@@ -48,6 +48,7 @@ def edit_task_form(task_id: int):
                 st.success("Task updated successfully!")
                 st.button("Back to task list", on_click=lambda: st.experimental_rerun())
 
+
 def main():
     st.title("Todo App")
 
