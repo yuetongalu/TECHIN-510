@@ -25,3 +25,10 @@ Website:
 inclasslab4.azurewebsites.net
 Code: Check the Week4 file,
 >>>>>>> 26b6c9bc138c277092393b72d37f1c5f2594846e
+
+
+Lab 5:
+
+
+Lab 6: 
+check this repo:https://github.com/Yuetong-a-Lu/Techin510-Lab.git
